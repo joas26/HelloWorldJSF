@@ -4,5 +4,7 @@ import javax.inject.Named;
 
 @Named
 public class HelloWorldController {
+	
+	
 
 }
